@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which fruit is commonly used to make guacamole?",
+    "option1": "Apple",
+    "option2": "Banana",
+    "option3": "Avocado",
+    "answer": 3,
+    "level": 1
+  },
+  {
+    "question": "What is the primary ingredient in hummus?",
+    "option1": "Chickpeas",
+    "option2": "Lentils",
+    "option3": "Potatoes",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "Which of the following is a popular Italian pasta dish?",
+    "option1": "Sushi",
+    "option2": "Spaghetti",
+    "option3": "Tacos",
+    "answer": 2,
+    "level": 1
+  },
+  {
+    "question": "What country does Katsu come from?",
+    "option1": "Japan",
+    "option2": "China",
+    "option3": "Thailand",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "Which of the following is a popular Chinese dish?",
+    "option1": "Tiramisu",
+    "option2": "Sushi",
+    "option3": "Kung Pao Chicken",
+    "answer": 3,
+    "level": 1
+  },
+  {
+    "question": "What is the most commonly consumed type of meat worldwide?",
+    "option1": "Chicken",
+    "option2": "Pork",
+    "option3": "Beef",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "What is the primary ingredient in a Caesar salad?",
+    "option1": "Romaine lettuce",
+    "option2": "Spinach",
+    "option3": "Kale",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "Which country is known for its Swiss cheese?",
+    "option1": "Switzerland",
+    "option2": "France",
+    "option3": "Italy",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "What type of food is a croissant?",
+    "option1": "Pastry",
+    "option2": "Bread",
+    "option3": "Pasta",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "Which of the following is a popular Mexican dish?",
+    "option1": "Sushi",
+    "option2": "Enchiladas",
+    "option3": "Pad Thai",
+    "answer": 2,
+    "level": 1
+  },
+  {
+    "question": "What is the primary ingredient in bread?",
+    "option1": "Flour",
+    "option2": "Seeds",
+    "option3": "Rye",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "What is the primary ingredient in a margherita pizza?",
+    "option1": "Tomato",
+    "option2": "Cheese",
+    "option3": "Pepperoni",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "What type of meat is commonly used in a classic BLT sandwich?",
+    "option1": "Bacon",
+    "option2": "Turkey",
+    "option3": "Ham",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "What is the main ingredient in a caprese salad?",
+    "option1": "Mozzarella cheese",
+    "option2": "Tomato",
+    "option3": "Lettuce",
+    "answer": 2,
+    "level": 1
+  },
+  {
+    "question": "Which country is known for its sushi?",
+    "option1": "Japan",
+    "option2": "China",
+    "option3": "Thailand",
+    "answer": 1,
+    "level": 1
+  },
+  {
+    "question": "Which of the following spices is commonly used in Indian cuisine?",
+    "option1": "Paprika",
+    "option2": "Turmeric",
+    "option3": "Oregano",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "What is the main ingredient in miso soup?",
+    "option1": "Tofu",
+    "option2": "Noodles",
+    "option3": "Seaweed",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "Which of the following is a popular Middle Eastern dip?",
+    "option1": "Guacamole",
+    "option2": "Baba ganoush",
+    "option3": "Salsa",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "What type of grain is used to make risotto?",
+    "option1": "Rice",
+    "option2": "Quinoa",
+    "option3": "Barley",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "Which of the following is a traditional Thai soup?",
+    "option1": "Pho",
+    "option2": "Tom Yum",
+    "option3": "Gazpacho",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "What is the primary ingredient in a classic French omelette?",
+    "option1": "Eggs",
+    "option2": "Spinach",
+    "option3": "Mushrooms",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "What is the main ingredient in a traditional Margarita cocktail?",
+    "option1": "Vodka",
+    "option2": "Tequila",
+    "option3": "Rum",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "Which country is known for its Chardonnay wine?",
+    "option1": "Italy",
+    "option2": "France",
+    "option3": "Spain",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "What is the primary ingredient in Peking duck?",
+    "option1": "Chicken",
+    "option2": "Duck",
+    "option3": "Turkey",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "Which of the following is a popular Indian bread?",
+    "option1": "Naan",
+    "option2": "Baguette",
+    "option3": "Tortilla",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "What is the main ingredient in pad thai?",
+    "option1": "Rice noodles",
+    "option2": "Udon noodles",
+    "option3": "Soba noodles",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "What type of meat is used in a traditional shepherd's pie?",
+    "option1": "Lamb",
+    "option2": "Beef",
+    "option3": "Chicken",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "Which of the following is a common ingredient in pesto sauce?",
+    "option1": "Basil",
+    "option2": "Parsley",
+    "option3": "Cilantro",
+    "answer": 1,
+    "level": 2
+  },
+  {
+    "question": "What is the primary ingredient in a classic Caesar dressing?",
+    "option1": "Mayonnaise",
+    "option2": "Anchovies",
+    "option3": "Mustard",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "Which country is known for its Guinness beer?",
+    "option1": "Germany",
+    "option2": "Ireland",
+    "option3": "Belgium",
+    "answer": 2,
+    "level": 2
+  },
+  {
+    "question": "What is the primary ingredient in a traditional Greek salad?",
+    "option1": "Feta cheese",
+    "option2": "Blue cheese",
+    "option3": "Cheddar cheese",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "Which of the following is a popular Mexican soup?",
+    "option1": "Gazpacho",
+    "option2": "Tortilla soup",
+    "option3": "Minestrone",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "What type of grain is used to make couscous?",
+    "option1": "Rice",
+    "option2": "Semolina",
+    "option3": "Barley",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "Which of the following is a traditional Korean side dish?",
+    "option1": "Tempura",
+    "option2": "Kimchi",
+    "option3": "Sushi",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "What is the main ingredient in a classic French onion soup?",
+    "option1": "Chicken broth",
+    "option2": "Onions",
+    "option3": "Beef broth",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "What is the primary ingredient in a Bloody Mary cocktail?",
+    "option1": "Vodka",
+    "option2": "Rum",
+    "option3": "Gin",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "Which country is known for its Rioja wine?",
+    "option1": "Spain",
+    "option2": "Italy",
+    "option3": "Argentina",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "What is the primary ingredient in a traditional Vietnamese pho soup?",
+    "option1": "Noodles",
+    "option2": "Tofu",
+    "option3": "Rice",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "What is the main ingredient in a classic Eggs Benedict dish?",
+    "option1": "Scrambled eggs",
+    "option2": "Poached eggs",
+    "option3": "Fried eggs",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "Which of the following is a popular Italian bread?",
+    "option1": "Baguette",
+    "option2": "Ciabatta",
+    "option3": "Sourdough",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "What is the main ingredient in a classic beef stroganoff dish?",
+    "option1": "Beef",
+    "option2": "Chicken",
+    "option3": "Pork",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "What is the primary ingredient in a classic tzatziki sauce?",
+    "option1": "Yogurt",
+    "option2": "Sour cream",
+    "option3": "Mayonnaise",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "Which of the following is a common ingredient in paella?",
+    "option1": "Saffron",
+    "option2": "Cumin",
+    "option3": "Turmeric",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "What is the main ingredient in a classic Caesar salad dressing?",
+    "option1": "Anchovies",
+    "option2": "Garlic",
+    "option3": "Lemon juice",
+    "answer": 2,
+    "level": 3
+  },
+  {
+    "question": "Which country is known for its tequila production?",
+    "option1": "Mexico",
+    "option2": "Spain",
+    "option3": "United States",
+    "answer": 1,
+    "level": 3
+  },
+  {
+    "question": "What is the primary ingredient in a classic bouillabaisse dish?",
+    "option1": "Clams",
+    "option2": "Fish",
+    "option3": "Lobster",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "Which of the following is a popular Ethiopian dish?",
+    "option1": "Pad Thai",
+    "option2": "Injera",
+    "option3": "Bibimbap",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What type of grain is used to make soba noodles?",
+    "option1": "Rice",
+    "option2": "Buckwheat",
+    "option3": "Wheat",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "Which of the following is a traditional Indian dessert?",
+    "option1": "Tiramisu",
+    "option2": "Gulab Jamun",
+    "option3": "Creme brulee",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What is the main ingredient in a classic New England clam chowder?",
+    "option1": "Chicken broth",
+    "option2": "Clams",
+    "option3": "Tomato sauce",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What is the primary ingredient in a classic Mojito cocktail?",
+    "option1": "Rum",
+    "option2": "Vodka",
+    "option3": "Tequila",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "Which country is known for its Malbec wine?",
+    "option1": "Argentina",
+    "option2": "Australia",
+    "option3": "Chile",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "What is the primary ingredient in a traditional Thai green curry?",
+    "option1": "Curry powder",
+    "option2": "Green chili peppers",
+    "option3": "Coconut milk",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What is the main ingredient in a classic Eggs Florentine dish?",
+    "option1": "Spinach",
+    "option2": "Ham",
+    "option3": "Smoked salmon",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "Which of the following is a popular French cheese?",
+    "option1": "Gouda",
+    "option2": "Camembert",
+    "option3": "Cheddar",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What is the main ingredient in a classic coq au vin dish?",
+    "option1": "Chicken",
+    "option2": "Beef",
+    "option3": "Lamb",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "What is the primary ingredient in a classic baba ganoush dip?",
+    "option1": "Eggplant",
+    "option2": "Zucchini",
+    "option3": "Bell peppers",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "Which of the following is a common ingredient in mole sauce?",
+    "option1": "Cilantro",
+    "option2": "Chocolate",
+    "option3": "Peanut butter",
+    "answer": 2,
+    "level": 4
+  },
+  {
+    "question": "What is the main ingredient in a classic hollandaise sauce?",
+    "option1": "Butter",
+    "option2": "Cream",
+    "option3": "Olive oil",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "Which country is known for its Scotch whisky production?",
+    "option1": "Scotland",
+    "option2": "Ireland",
+    "option3": "United States",
+    "answer": 1,
+    "level": 4
+  },
+  {
+    "question": "What is the primary ingredient in a traditional tarte Tatin?",
+    "option1": "Apples",
+    "option2": "Pears",
+    "option3": "Peaches",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "Which of the following is a popular Peruvian dish?",
+    "option1": "Sushi",
+    "option2": "Ceviche",
+    "option3": "Pho",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "What type of grain is used to make bulgur wheat?",
+    "option1": "Rice",
+    "option2": "Wheat",
+    "option3": "Quinoa",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "Which of the following is a traditional French dessert?",
+    "option1": "Baklava",
+    "option2": "Crème brûlée",
+    "option3": "Panna cotta",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "What is the main ingredient in a classic vichyssoise soup?",
+    "option1": "Leeks",
+    "option2": "Carrots",
+    "option3": "Onions",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "What is the primary ingredient in a classic Negroni cocktail?",
+    "option1": "Gin",
+    "option2": "Whiskey",
+    "option3": "Vodka",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "Which country is known for its Riesling wine?",
+    "option1": "Germany",
+    "option2": "France",
+    "option3": "Italy",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "What is the primary ingredient in a traditional Indian biryani?",
+    "option1": "Rice",
+    "option2": "Potatoes",
+    "option3": "Pasta",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "Which of the following is a common ingredient in kimchi?",
+    "option1": "Cabbage",
+    "option2": "Carrots",
+    "option3": "Radishes",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "What is the main ingredient in a classic beef Wellington dish?",
+    "option1": "Beef",
+    "option2": "Chicken",
+    "option3": "Pork",
+    "answer": 1,
+    "level": 5
+  },
+  {
+    "question": "Which of the following is a popular Greek cheese?",
+    "option1": "Mozzarella",
+    "option2": "Halloumi",
+    "option3": "Brie",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "What is the primary ingredient in a classic Italian tiramisu dessert?",
+    "option1": "Coffee",
+    "option2": "Mascarpone cheese",
+    "option3": "Ladyfingers",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "Which country is known for its sake?",
+    "option1": "China",
+    "option2": "Korea",
+    "option3": "Japan",
+    "answer": 3,
+    "level": 5
+  },
+  {
+    "question": "Which of the following is a popular Spanish cheese?",
+    "option1": "Gruyere",
+    "option2": "Manchego",
+    "option3": "Provolone",
+    "answer": 2,
+    "level": 5
+  },
+  {
+    "question": "What is the main ingredient in a classic bouillabaisse soup?",
+    "option1": "Fish",
+    "option2": "Clams",
+    "option3": "Lobster",
+    "answer": 1,
+    "level": 5
+  }
+]
