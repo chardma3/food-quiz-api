@@ -63,7 +63,7 @@ db.serialize(() => {
 });
 
 // API ROUTES
-app.get("/api/questions", (req, res) => {
+app.get("/questions", (req, res) => {
   db.all(`SELECT * FROM questions`, (err, rows) => {
     if (err) {
       console.log(err);
@@ -74,7 +74,7 @@ app.get("/api/questions", (req, res) => {
   });
 });
 
-app.get("/api/questions/:level", (req, res) => {
+app.get("/questions/:level", (req, res) => {
   const level = req.params.level;
 
   db.all(`SELECT * FROM questions WHERE LEVEL = ?`, [level], (err, rows) => {
