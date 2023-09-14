@@ -1,15 +1,12 @@
+require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const app = express();
 const connectDB = require("./config/db");
 const PORT = process.env.PORT || 5000;
-require("dotenv").config();
 
 //connect to db
-connectDB();
-
-const questions = require("./questions.json");
-const { configDotenv } = require("dotenv");
+connectDB.connectToMongoDB();
 
 // Enable CORS for all routes
 app.use(cors());
@@ -17,20 +14,16 @@ app.use(cors());
 // API ROUTES
 app.get("/questions", async (req, res) => {
   try {
-    // Fetch data from MongoDB
-    const questions = await QuestionModel.find({});
-    res.json(questions);
-  } catch (error) {
-    console.error("Error fetching questions:", error);
-    res.status(500).json({ error: "Internal Server Error" });
-  }
-});
+    // Access the client from db.js
+    const client = connectDB.client;
 
-app.get("/questions/:level", async (req, res) => {
-  const level = req.params.level;
-  try {
-    // Fetch data from MongoDB based on the level
-    const questions = await QuestionModel.find({ level: level });
+    // Access the database and collection
+    const db = client.db("QuizDB"); // Replace with your actual database name
+    const collection = db.collection("QuizCollection"); // Replace with your actual collection name
+
+    // Query all documents from the collection
+    const questions = await collection.find({}).toArray();
+
     res.json(questions);
   } catch (error) {
     console.error("Error fetching questions:", error);
