@@ -18,8 +18,8 @@ app.get("/questions", async (req, res) => {
     const client = connectDB.client;
 
     // Access the database and collection
-    const db = client.db("QuizDB"); // Replace with your actual database name
-    const collection = db.collection("QuizCollection"); // Replace with your actual collection name
+    const db = client.db("QuizDB");
+    const collection = db.collection("QuizCollection");
 
     // Query all documents from the collection
     const questions = await collection.find({}).toArray();
